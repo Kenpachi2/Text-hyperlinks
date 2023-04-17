@@ -1,0 +1,2 @@
+##This is a project sample for Ken-tech global...a tech company that was founded by Zaraki. 
+##It uses hyperlinks and text fundamentals to bring the user into the creation process of a website using just HTML. Maybe a bit of css later?
